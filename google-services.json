@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370911521502",
+    "project_id": "dailynotes-rara",
+    "storage_bucket": "dailynotes-rara.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370911521502:android:2e83917e18d59df638304f",
+        "android_client_info": {
+          "package_name": "com.example.dailynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbNT43IpUZ38cFn1KLfD6EOQUX2MLrdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
